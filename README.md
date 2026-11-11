@@ -90,8 +90,8 @@ Open the local URL provided by Streamlit (usually `http://localhost:8501`) in yo
 ---
 
 ### How to update it on GitHub:
-1. Go to your repository on GitHub (`suh144/aiot_telemetry_bot`)[cite: 13].
-2. Click on `README.md`[cite: 13].
+1. Go to your repository on GitHub (`suh144/aiot_telemetry_bot`).
+2. Click on `README.md`.
 3. Click the **pencil icon (Edit)** in the top right corner of the file view.
 4. Paste the text above, scroll down, and click **Commit changes**. 
 
